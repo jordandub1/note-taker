@@ -26,6 +26,8 @@
   ## Deployed-Application
   [Click Here for a link to the deployed application!](https://note-taker-jordandub1.herokuapp.com/)
 
+  ![Note-Taker-Application](public/assets/images/screenshot.png)
+
   ## Questions
   For any questions about the project, please contact me by either of the following links:
   
