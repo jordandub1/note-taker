@@ -49,7 +49,7 @@ app.post('/api/notes', (req, res) => {
         if(err) console.log('error', err)
     });
     return res.json({});
-})
+});
 
 //DELETE note
 app.delete('/api/notes/:id', (req, res) => {
@@ -63,7 +63,7 @@ app.delete('/api/notes/:id', (req, res) => {
         if(err) console.log('error', err)
     });
     return res.json({});
-})
+});
 
 app.listen(PORT, () => {
   console.log(`App listening at http://localhost:${PORT}`);
